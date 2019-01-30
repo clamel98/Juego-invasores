@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1512217103 source:c:\users\mel\documents\computacion grafica\lab\verjuego\main.cpp
+	<vector>
+	<time.h>
+	<windows.h>
+	<C:\Program Files (x86)\freeglut\include\GL\glut.h>
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<unistd.h>
+	<stdbool.h>
+	<mmsystem.h.>
+
+1459788676 c:\program files (x86)\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1459788676 c:\program files (x86)\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1512217103 source:c:\users\mel\downloads\roque -invasores\roque -invasores\verjuego\main.cpp
+	<vector>
+	<time.h>
+	<windows.h>
+	<C:\Program Files (x86)\freeglut\include\GL\glut.h>
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<unistd.h>
+	<stdbool.h>
+	<mmsystem.h.>
+
